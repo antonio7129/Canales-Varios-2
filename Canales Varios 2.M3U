@@ -1,0 +1,807 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="││CULT││(N) HISTORY 2D" tvg-logo="https://static.epg.best/mx/History2.mx.png" group-title="││TV││CULTURA",││CULT││(N) HISTORY 2D
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/44
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="││TV││ CINE",││CINE HD││SONY CINE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/101
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ A&E (N)" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="││TV││ CINE",││CINE FHD││ A&E (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/102
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CINE FHD││ AMC (N)" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="││TV││ CINE",││CINE FHD││ AMC (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/103
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ AXN (N)" tvg-logo="https://static.epg.best/mx/AXN.mx.png" group-title="││TV││ CINE",││CINE HD││ AXN (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/104
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││CINECANAL (N)" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="││TV││ CINE",││CINE HD││CINECANAL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/105
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ CINE",││CINE HD││ STAR CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/108
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="││COMEDIA HD││  UNIVERSAL COMEDY (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="││TV││COMEDIA ",││COMEDIA HD││  UNIVERSAL COMEDY (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/109
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ CINEMAX (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="││TV││ CINE",││CINE HD││ CINEMAX (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/110
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="││TV││ CINE",││CINE HD││ DISNEY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/112
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││PARAMOUT (N)" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="││TV││ CINE",││CINE HD││PARAMOUT (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/123
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="││CINE HD││ SONY (N)" tvg-logo="https://static.epg.best/mx/SonyEntertainmentTV.mx.png" group-title="││TV││ CINE",││CINE HD││ SONY (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/124
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ CINE",││CINE HD││SPACE (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/127
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││TNT (N)" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="││TV││ CINE",││CINE HD││TNT (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/128
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="││TV││ CINE",││CINE HD││ TNT SERIES (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/129
+#EXTINF:-1 tvg-id="" tvg-name="││CINE HD││WARNER CHANNEL (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ CINE",││CINE HD││WARNER CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/130
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  ANIMAL PLANET" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA",││CULT HD││  ANIMAL PLANET
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/151
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/152
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY HOME&HEALTH (N)" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY HOME&HEALTH (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/153
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY SCIENCE" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-latinoamerica-us.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY SCIENCE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/155
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY THEATHER (N)" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY THEATHER (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/156
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ DISCOVERY TURBO*" tvg-logo="https://static.epg.best/pa/DiscoveryTurboLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY TURBO*
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/157
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="││CULT HD││ DISCOVERY WORLD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryWorld.mx.png" group-title="││TV││CULTURA",││CULT HD││ DISCOVERY WORLD (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/158
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORY (N)" tvg-logo="https://static.epg.best/pa/HistoryLatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ HISTORY (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/159
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/160
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ NATGEO WILD" tvg-logo="https://static.epg.best/mx/NatGeoWild.mx.png" group-title="││TV││CULTURA",││CULT HD││ NATGEO WILD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/161
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY ID (N)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY ID (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/162
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││  DISCOVERY TURBO" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="││TV││CULTURA",││CULT HD││  DISCOVERY TURBO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/163
+#EXTINF:-1 tvg-id="I375.80374.schedulesdirect.org" tvg-name="││CULT HD││ H2 " tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="││TV││CULTURA",││CULT HD││ H2 
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/164
+#EXTINF:-1 tvg-id="" tvg-name="││CULT HD││ HISTORIA CHANNEL (N)" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="││TV││CULTURA",││CULT HD││ HISTORIA CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/165
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  NATIONAL GEOGRAPHIC
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/166
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││INFANTIL BABY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="││TV││ INFANTILES",││KIDS HD││INFANTIL BABY TV HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/167
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="││TV││ INFANTILES",││KIDS HD││ CARTOONITO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/168
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="││KIDS HD││CARTOON NETWORK (N)" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││CARTOON NETWORK (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/169
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ DISCOVERY KIDS HD (N)" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="││TV││ INFANTILES",││KIDS││ DISCOVERY KIDS HD (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/170
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ DISNEY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ DISNEY CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/171
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD│N│DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="││TV││ INFANTILES",││KIDS HD│N│DISNEY JUNIOR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/172
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1024px-Tooncast_logo.svg.png" group-title="││TV││ INFANTILES",││KIDS HD││ TOONCAST SD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/173
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ CINE ANIMADO" tvg-logo="https://freepngimg.com/save/161179-vector-kids-png-file-hd/700x565" group-title="││TV││ INFANTILES",││KIDS HD││ CINE ANIMADO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/174
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS HD││ NICK (N)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="││TV││ INFANTILES",││KIDS HD││ NICK (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/175
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK 2 TEAM NICK HD" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK 2 TEAM NICK HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/176
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││ NICK JR HD  (N)" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="││TV││ INFANTILES",││KIDS││ NICK JR HD  (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/177
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 24 HQ" tvg-logo="https://static.epg.best/ar/America24.ar.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 24 HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/178
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVISION [HD]" tvg-logo="https://static.epg.best/bo/Bolivision.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVISION [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/179
+#EXTINF:-1 tvg-id="" tvg-name="││BOL│ PAT" tvg-logo="https://static.epg.best/bo/PlusTLT.bo.png" group-title="││TV││ BOLIVIA",││BOL│ PAT
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/180
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  PAT PLUS" tvg-logo="https://static.epg.best/bo/PlusTLT.bo.png" group-title="││TV││ BOLIVIA",││BOL││  PAT PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/181
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  RED ADVENIR" tvg-logo="https://static.epg.best/bo/AbyaYala.bo.png" group-title="││TV││ BOLIVIA",││BOL││  RED ADVENIR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/182
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVIA TV [HD]" tvg-logo="https://static.epg.best/bo/BoliviaTv.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVIA TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/183
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | EXTREMA TV" tvg-logo="https://logos.flamingtext.com/Country-Logos/CR-Logo.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | EXTREMA TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/185
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | MULTIMEDIOS" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | MULTIMEDIOS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/186
+#EXTINF:-1 tvg-id="" tvg-name="││MX││ADN 40  [HD]" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="││TV││ MEXICO",││MX││ADN 40  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/211
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CANAL ONCE OPCION 2  [HD]" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="││TV││ MEXICO",││CHL││ CANAL ONCE OPCION 2  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/212
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││ DE PELICULAS [HD] " tvg-logo="https://static.epg.best/mx/DePelicula.mx.png" group-title="││TV││ MEXICO",  ││MX││ DE PELICULAS [HD] 
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/213
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││ FORO TV [HD]" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="││TV││ MEXICO", ││MX││ FORO TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/214
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ | VENEVISION" tvg-logo="https://static.epg.best/ve/Venevision.ve.png" group-title="││TV││VENEZUELA",VENEZUELA HQ | VENEVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/216
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ | VENEVISION PLUS" tvg-logo="https://static.epg.best/ve/VenevisionPlus.ve.png" group-title="││TV││VENEZUELA",VENEZUELA HQ | VENEVISION PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/217
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ | TELESUR" tvg-logo="https://static.epg.best/ve/Telesur.ve.png" group-title="││TV││VENEZUELA",VENEZUELA HQ | TELESUR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/218
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ |  TVO" tvg-logo="https://appnew.megainfoapp.com/files/1/tvo.png" group-title="││TV││VENEZUELA",VENEZUELA HQ |  TVO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/219
+#EXTINF:-1 tvg-id="" tvg-name="││COL││CANAL UNO HQ" tvg-logo="https://static.epg.best/co/CanalUno.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CANAL UNO HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/220
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL FHD |Exclusivo|" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL FHD |Exclusivo|
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/221
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││ CARACOL INTERNACIONAL  HQ" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ CARACOL INTERNACIONAL  HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/222
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ 13C [HD]" tvg-logo="https://static.epg.best/cl/13C.cl.png" group-title="││TV││ CHILE",││CHL││ 13C [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/223
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  TVN 24HORAS  [HD]" tvg-logo="https://static.epg.best/cl/TVN24.cl.png" group-title="││TV││ CHILE",││CHL││  TVN 24HORAS  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/224
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  CANAL 13 [HD]" tvg-logo="https://static.epg.best/cl/Canal13.cl.png" group-title="││TV││ CHILE",││CHL││  CANAL 13 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/225
+#EXTINF:-1 tvg-id="" tvg-name=" ││CHL││CDO BASICO[HD]" tvg-logo="https://appnew.megainfoapp.com/files/1/CDO.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️", ││CHL││CDO BASICO[HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/229
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CDO PREMIUN [SD]" tvg-logo="https://appnew.megainfoapp.com/files/1/CDO.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││ CDO PREMIUN [SD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/230
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CHILEVISION [HD]" tvg-logo="https://static.epg.best/cl/Chilevision.cl.png" group-title="││TV││ CHILE",││CHL││ CHILEVISION [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/231
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  ETC TV [HD]" tvg-logo="https://static.epg.best/cl/ETCTV.cl.png" group-title="││TV││ CHILE",││CHL││  ETC TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/232
+#EXTINF:-1 tvg-id="" tvg-name="││CHL│N│ REC TV [HD]" tvg-logo="https://static.epg.best/cl/RecTV.cl.png" group-title="││TV││ CHILE",││CHL│N│ REC TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/234
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ MEGA [HD]" tvg-logo="https://static.epg.best/cl/Mega.cl.png" group-title="││TV││ CHILE",││CHL││ MEGA [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/235
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  LA RED [HD] " tvg-logo="https://static.epg.best/cl/LaRed.cl.png" group-title="││TV││ CHILE",││CHL││  LA RED [HD] 
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/236
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  TELETRAK  [HD]" tvg-logo="https://static.epg.best/cl/Teletrak.cl.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││  TELETRAK  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/237
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ TVN [HD]" tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="││TV││ CHILE",││CHL││ TVN [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/238
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  TELEFE HQ" tvg-logo="https://static.epg.best/ar/Telefe.ar.png" group-title="││TV││ARGENTINA ",││ARG││  TELEFE HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/264
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ ARGENTINA EL TRECE [HQ]" tvg-logo="https://static.epg.best/ar/El13.ar.png" group-title="││TV││ARGENTINA ",││ARG││ ARGENTINA EL TRECE [HQ]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/265
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  AMERICA 2 HQ" tvg-logo="https://static.americadigital.com.ar/americatv/images/america-tv-junio.png" group-title="││TV││ARGENTINA ",││ARG││  AMERICA 2 HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/266
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/267
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TV PUBLICA [HQ]" tvg-logo="https://static.epg.best/ar/TVPublica.ar.png" group-title="││TV││ARGENTINA ",││ARG││ TV PUBLICA [HQ]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/268
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││  EL NUEVE HD" tvg-logo="https://static.epg.best/ar/Canal9.ar.png" group-title="││TV││ARGENTINA ",││ARG││  EL NUEVE HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/269
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││ CANAL 5 HQ" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="││TV││ MEXICO", ││MX││ CANAL 5 HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/270
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││ AZTECA 7 [HD]" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="││TV││ MEXICO", ││MX││ AZTECA 7 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/271
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││GALA TV [HD]" tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="││TV││ MEXICO",  ││MX││GALA TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/272
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││CANAL ONCE [HD]" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="││TV││ MEXICO", ││MX││CANAL ONCE [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/273
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││ INGENIO TV [HD]" tvg-logo="https://static.epg.best/mx/IngenioTV.mx.png" group-title="││TV││ MEXICO", ││MX││ INGENIO TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/274
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││TELEFORMULA  " tvg-logo="https://static.epg.best/mx/TeleFormula.mx.png" group-title="││TV││ MEXICO", ││MX││TELEFORMULA  
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/275
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││ ADN 40 OPCION 2   [HD]" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="││TV││ MEXICO", ││MX││ ADN 40 OPCION 2   [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/276
+#EXTINF:-1 tvg-id="" tvg-name="││CULT SD││ MEXICO TLNOVELAS HD" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="││TV││ NOVELAS",││CULT SD││ MEXICO TLNOVELAS HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/278
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││AZ CORAZON [HD]" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png" group-title="││TV││ MEXICO", ││MX││AZ CORAZON [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/279
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  |RPC" tvg-logo="https://otb.behaviorlf356n.space/img/10fd46bc53749235adf808cc44a1a8ba.png" group-title="││TV││ PARAGUAY", |  | PARAG |  |RPC
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/296
+#EXTINF:-1 tvg-id="" tvg-name=" ││TIGO SPORT +││  (PAR)  [HD]" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️", ││TIGO SPORT +││  (PAR)  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/298
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY HQ |N|  SNT" tvg-logo="https://static.epg.best/py/SNT.py.png" group-title="││TV││ PARAGUAY",PARAGUAY HQ |N|  SNT
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/299
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG | N| C9N" tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png" group-title="││TV││ PARAGUAY", |  | PARAG | N| C9N
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/300
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  |(N)    TELEFUTURO" tvg-logo="https://static.epg.best/py/Telefuturo.py.png" group-title="││TV││ PARAGUAY", |  | PARAG |  |(N)    TELEFUTURO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/301
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | UNICANAL" tvg-logo="https://static.epg.best/py/Unicanal.py.png" group-title="││TV││ PARAGUAY", |  | PARAG |  | UNICANAL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/302
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | MEGA TV" tvg-logo="https://www.latinsonghall.com/access/wp-content/uploads/2013/03/logo-megatv-300x300.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | MEGA TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/311
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | PUNTO 2" tvg-logo="https://static.epg.best/us/WKAQPunto2.us.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | PUNTO 2
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/312
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | WIPR CANAL 6" tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | WIPR CANAL 6
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/315
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | WAPA" tvg-logo="https://static.epg.best/us/WapaTV.us.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | WAPA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/316
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | WIPR (OPCION2)" tvg-logo="https://www.wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | WIPR (OPCION2)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/317
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | WAPA (OPCION2)" tvg-logo="https://static.epg.best/us/WapaAmerica.us.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | WAPA (OPCION2)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/318
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO HQ | UNIVISION" tvg-logo="https://static.epg.best/us/UnivisionWLII.us.png" group-title="││TV││PUERTO RICO",PUERTO RICO HQ | UNIVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/319
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 1
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/320
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 2
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/321
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 3
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/322
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/323
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 5
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/324
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 6
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/325
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV HARRY POTTER" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV HARRY POTTER
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/326
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 8" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 8
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/327
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV MARVEL STUDIO HD" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV MARVEL STUDIO HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/328
+#EXTINF:-1 tvg-id="" tvg-name="CINE PPV LATINOS l 10" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",CINE PPV LATINOS l 10
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/329
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | A&E (N)" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | A&E (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/332
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | AMC (N)" tvg-logo="https://static.epg.best/hu/AMC.hu.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | AMC (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/333
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ AXN (N)" tvg-logo="https://static.epg.best/br/AXN.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ AXN (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/334
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | CINECANAL (N)" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | CINECANAL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/335
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CINEMAX FHD (N)" tvg-logo="https://static.epg.best/br/Cinemax.br.png" group-title="││TV││ PREMIUM FHD",CINE  CINEMAX FHD (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/336
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | FX (n)" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" group-title="││TV││ PREMIUM FHD",CINE FULL HD | FX (n)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/337
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | STAR CHANNEL (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="││TV││ PREMIUM FHD",CINE FULL HD | STAR CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/338
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL PREMIER
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/339
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL CINEMA (N)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL CINEMA (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/340
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││UNIVERSAL COMEDY (N)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1006522521_UniversalComedy.png.b9917abf77a0af6426dc74bf7e8c0083.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││UNIVERSAL COMEDY (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/341
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││FILM  & ARTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Film%26Arts1998.png/revision/latest?cb=20200106220948&path-prefix=es" group-title="││TV││ PREMIUM FHD",││CINE FHD││FILM  & ARTS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/343
+#EXTINF:-1 tvg-id="" tvg-name="CINE FULL HD | UNIVERSAL PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Universal_Premiere_2021.png/revision/latest?cb=20220102013559&path-prefix=es" group-title="││TV││ PREMIUM FHD",CINE FULL HD | UNIVERSAL PREMIER
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/344
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ HBO (N)" tvg-logo="https://static.epg.best/cz/HBO.cz.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ HBO (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/345
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SPACE (N)" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SPACE (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/353
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ SONY (N)" tvg-logo="https://static.epg.best/br/Sony.br.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ SONY (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/354
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TCM
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/356
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT SERIES (N)" tvg-logo="https://static.epg.best/pa/TNTSeries.pa.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT SERIES (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/357
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ TNT (n)" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ TNT (n)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/358
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ UNIVERSAL CHANNEL (N)" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ UNIVERSAL CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/359
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││STUDIO UNIVERSAL (N)" tvg-logo="https://static.epg.best/ar/StudioUniversal.ar.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││STUDIO UNIVERSAL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/360
+#EXTINF:-1 tvg-id="" tvg-name="││CINE FHD││ WARNER (N)" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="││TV││ PREMIUM FHD",││CINE FHD││ WARNER (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/361
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY THEATER" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY THEATER
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/398
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  DISCOVERY WORLD (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="││TV││CULTURA", ││CULT FHD││  DISCOVERY WORLD (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/399
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY HOME HEALTH (N)" tvg-logo="https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY HOME HEALTH (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/400
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY INVESTIGATION (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY INVESTIGATION (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/401
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ DISCOVERY CHANNEL (N)" tvg-logo="https://static.epg.best/mx/DiscoveryChannel.mx.png" group-title="││TV││CULTURA", ││CULT FHD││ DISCOVERY CHANNEL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/403
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ NATGEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="││TV││CULTURA", ││CULT FHD││ NATGEO WILD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/405
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││  NATGEO (N)" tvg-logo="https://media.findapps.com/wp-content/uploads/2016/04/Nat-Geo-TV.png" group-title="││TV││CULTURA", ││CULT FHD││  NATGEO (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/406
+#EXTINF:-1 tvg-id="" tvg-name=" ││CULT FHD││ ANIMAL PLANET (N)" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="││TV││CULTURA", ││CULT FHD││ ANIMAL PLANET (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/407
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││(N)  HISTORY CHANNEL" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="││TV││CULTURA",││CULT FHD││(N)  HISTORY CHANNEL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/408
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││  GOURMET (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="││TV││CULTURA",││CULT FHD││  GOURMET (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/409
+#EXTINF:-1 tvg-id="" tvg-name="││CULT FHD││  HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="││TV││CULTURA",││CULT FHD││  HGTV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/410
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | CANAL 10" tvg-logo="https://static.epg.best/uy/Canal10.uy.png" group-title="││TV││ URUGUAY ",URUGUAY HQ | CANAL 10
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/418
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Canal4Uruguay.png/90px-Canal4Uruguay.png" group-title="││TV││ URUGUAY ",URUGUAY HQ | CANAL 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/419
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | CANAL 12" tvg-logo="https://static.epg.best/uy/Canal12.uy.png" group-title="││TV││ URUGUAY ",URUGUAY HQ | CANAL 12
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/420
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY  | TNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/1024x1024.png/90px-1024x1024.png" group-title="││TV││ URUGUAY ",URUGUAY  | TNU
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/421
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | A + V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CanalA%2BVUruguay2017.png/90px-CanalA%2BVUruguay2017.png" group-title="││TV││ URUGUAY ",URUGUAY HQ | A + V
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/422
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | TELETICA CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/200px-Teletica.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | TELETICA CANAL 7
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/423
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ RTP BOLIVIA [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/RTP_Bolivia_Hd.png/90px-RTP_Bolivia_Hd.png" group-title="││TV││ BOLIVIA",││BOL││ RTP BOLIVIA [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/425
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││  UNITEL  [HD]" tvg-logo="https://static.epg.best/bo/Unitel.bo.png" group-title="││TV││ BOLIVIA",││BOL││  UNITEL  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/426
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HQ | VTV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/427
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | VTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HQ | VTV PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/428
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ACCION" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ACCION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/429
+#EXTINF:-1 tvg-id="" tvg-name="││KIDS││CANAL INFANTIL" tvg-logo="data:image/png;base64,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" group-title="││TV││ INFANTILES",││KIDS││CANAL INFANTIL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/430
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ROMANCES" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ROMANCES
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/431
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | FAMILIAR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | FAMILIAR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/432
+#EXTINF:-1 tvg-id="" tvg-name="││PPV MOVIES││ COMEDIA  " tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="││TV││COMEDIA ",││PPV MOVIES││ COMEDIA  
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/433
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | TERROR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/435
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | MARVEL" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | MARVEL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/436
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | SAGAS FANTASIA" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | SAGAS FANTASIA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/437
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ZOMBIES" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ZOMBIES
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/438
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 1" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 1
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/439
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 2" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 2
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/440
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 3" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 3
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/441
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 4" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/442
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 5" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 5
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/443
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 6" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 6
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/444
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 7" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 7
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/445
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 9" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 9
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/447
+#EXTINF:-1 tvg-id="" tvg-name="PPV CINEMA FHD | CINEMA 10" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││CINE FHD 24/7",PPV CINEMA FHD | CINEMA 10
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/448
+#EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/451
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL INTERNACIONAL HD" tvg-logo="https://static.epg.best/co/CaracolInternacional.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL INTERNACIONAL HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/456
+#EXTINF:-1 tvg-id="I417.39719.zap2it.com" tvg-name="││COL││CARACOL HD (N - OP)" tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││CARACOL HD (N - OP)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/462
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 11" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 11
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/464
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | TRECEVISION" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/trecevisin-1555.jpg" group-title="││TV││GUATEMALA",GUATEMALA HQ | TRECEVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/465
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Canal3.png/220px-Canal3.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 3
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/466
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | ANTIGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Canal_antigua_logo.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | ANTIGUA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/467
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | AZTECA GUATEMALA" tvg-logo="https://cdn.mitvstatic.com/channels/gt_tv-azteca-guatemala_m.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | AZTECA GUATEMALA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/468
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | GUATEVISION" tvg-logo="https://i.pinimg.com/originals/cf/9e/4a/cf9e4a0ed45c7153e58aa106bb1ed5cc.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | GUATEVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/469
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | CANAL 4" tvg-logo="https://static.epg.best/cr/Canal4.cr.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | CANAL 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/477
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | CANAL 6" tvg-logo="https://static.epg.best/cr/Canal6.cr.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | CANAL 6
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/478
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA SD CANAL 11" tvg-logo="https://static.epg.best/cr/Canal11.cr.png" group-title="││TV││ COSTA RICA",COSTA RICA SD CANAL 11
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/479
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | CANAL 13" tvg-logo="https://static.epg.best/cr/Canal13.cr.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | CANAL 13
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/480
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY HD | CANAL 10
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/488
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | TELEDOCE" tvg-logo="https://i.imgur.com/o1XIAIl.png" group-title="││TV││ URUGUAY ",URUGUAY HD | TELEDOCE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/489
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | VTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HD | VTV PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/491
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | A+V" tvg-logo="https://i.imgur.com/8k0yRbI.png" group-title="││TV││ URUGUAY ",URUGUAY HD | A+V
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/492
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | CANAL 4 SALTO" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="││TV││ URUGUAY ",URUGUAY HD | CANAL 4 SALTO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/494
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | CANAL 10" tvg-logo="https://i.imgur.com/fuQOkHk.png" group-title="││TV││ URUGUAY ",URUGUAY HD | CANAL 10
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/497
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Canal4Uruguay.png" group-title="││TV││ URUGUAY ",URUGUAY HD | CANAL 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/498
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HD | VTV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/499
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HD | VTV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/500
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | VTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/1200px-VTV%2BUruguay.svg.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HD | VTV PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/501
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | *VTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="││TV││⛹️ DEPORTE URUGUAY ⛹️",URUGUAY HD | *VTV PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/503
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | CANAL 4" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-4-montecarlo-en-vivo.png" group-title="││TV││ URUGUAY ",URUGUAY HD | CANAL 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/504
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY | CANAL 12" tvg-logo="https://i.imgur.com/o1XIAIl.png" group-title="││TV││ URUGUAY ",URUGUAY | CANAL 12
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/505
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD | CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Canal4Uruguay.png" group-title="││TV││ URUGUAY ",URUGUAY HD | CANAL 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/506
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HD |  LA RED" tvg-logo="https://i.imgur.com/CGbKsm8.png" group-title="││TV││ URUGUAY ",URUGUAY HD |  LA RED
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/507
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT 1││  (PAR) [SD]" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT 1││  (PAR) [SD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/509
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CANAL 13 [HD]" tvg-logo="https://static.epg.best/cl/Canal13.cl.png" group-title="││TV││ CHILE",││CHL││ CANAL 13 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/510
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ 24 HORAS [HD]" tvg-logo="https://static.epg.best/cl/TVN24.cl.png" group-title="││TV││ CHILE",││CHL││ 24 HORAS [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/511
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  CHILEVISION [HD]" tvg-logo="https://static.epg.best/cl/Chilevision.cl.png" group-title="││TV││ CHILE",││CHL││  CHILEVISION [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/512
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CNN CHILE [SD" tvg-logo="https://static.epg.best/cl/CNNChile.cl.png" group-title="││TV││ CHILE",││CHL││ CNN CHILE [SD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/513
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ LA RED  [HD]" tvg-logo="https://static.epg.best/cl/LaRed.cl.png" group-title="││TV││ CHILE",││CHL││ LA RED  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/514
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  MEGAVISION [HD] (N)" tvg-logo="https://static.epg.best/cl/Mega.cl.png" group-title="││TV││ CHILE",││CHL││  MEGAVISION [HD] (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/515
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  TVN [HD] (N)" tvg-logo="https://static.epg.best/cl/TVN.cl.png" group-title="││TV││ CHILE",││CHL││  TVN [HD] (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/516
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ TV+  [HD] (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/1200px-TV%2B_%282018%29.png" group-title="││TV││ CHILE",││CHL││ TV+  [HD] (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/517
+#EXTINF:-1 tvg-id="" tvg-name="CUBA HQ | PLAY" tvg-logo="https://static.epg.best/cu/CanalEducativo.cu.png" group-title="││TV││CUBA",CUBA HQ | PLAY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/527
+#EXTINF:-1 tvg-id="" tvg-name="CUBA HQ | TELE REBELDE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Tele-Rebelde.png" group-title="││TV││CUBA",CUBA HQ | TELE REBELDE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/528
+#EXTINF:-1 tvg-id="" tvg-name="CUBA HQ | TELE MARTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="││TV││CUBA",CUBA HQ | TELE MARTI
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/529
+#EXTINF:-1 tvg-id="" tvg-name="CUBA HQ | CUBAVISION" tvg-logo="https://static.epg.best/cu/Cubavision.cu.png" group-title="││TV││CUBA",CUBA HQ | CUBAVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/530
+#EXTINF:-1 tvg-id="" tvg-name="CUBA HQ | CUBAVISION INTERNACIONAL" tvg-logo="https://static.epg.best/cu/Cubavision.cu.png" group-title="││TV││CUBA",CUBA HQ | CUBAVISION INTERNACIONAL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/531
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││UNICABLE  [HD]" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="││TV││ MEXICO", ││MX││UNICABLE  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/534
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││MULTIMEDIOS MONTERREY" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="││TV││ MEXICO", ││MX││MULTIMEDIOS MONTERREY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/535
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││AZTECA UNO[HD]" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="││TV││ MEXICO", ││MX││AZTECA UNO[HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/536
+#EXTINF:-1 tvg-id="" tvg-name="  ││MX││AZTECA CORAZON [HD]" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png" group-title="││TV││ MEXICO",  ││MX││AZTECA CORAZON [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/537
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││AZTECA 7 [HD]" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="││TV││ MEXICO", ││MX││AZTECA 7 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/538
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││ CANAL 2  [HD]" tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png" group-title="││TV││ NICARAGUA ",││NICA││ CANAL 2  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/539
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││CANAL 4 [HD]" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-4-nicaragua-tv-en-vivo.jpg" group-title="││TV││ NICARAGUA ",││NICA││CANAL 4 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/540
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││ CANAL 6 [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="││TV││ NICARAGUA ",││NICA││ CANAL 6 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/541
+#EXTINF:-1 tvg-id="" tvg-name=" ││NICA││CANAL 8 TN8 [HD]" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TN8-Telenica-en-vivo-Online.png" group-title="││TV││ NICARAGUA ", ││NICA││CANAL 8 TN8 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/542
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││CANAL 10 [HD]" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-10-nicaragua-1592.png" group-title="││TV││ NICARAGUA ",││NICA││CANAL 10 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/543
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││CANAL 12 [HD]" tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png" group-title="││TV││ NICARAGUA ",││NICA││CANAL 12 [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/544
+#EXTINF:-1 tvg-id="" tvg-name="││NICA││CANAL 14 VOS TV [HD]" tvg-logo="https://www.vostv.com.ni/static/images/logo-footer.png" group-title="││TV││ NICARAGUA ",││NICA││CANAL 14 VOS TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/545
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 7" tvg-logo="https://static.epg.best/gt/Televisiete.gt.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 7
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/546
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA LOCAL CANAL 11" tvg-logo="https://static.epg.best/gt/TeleonceCanal11.gt.png" group-title="││TV││GUATEMALA",GUATEMALA LOCAL CANAL 11
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/547
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | CANAL 13" tvg-logo="https://static.epg.best/gt/TrecevisionCanal13.gt.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | CANAL 13
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/548
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | TN23" tvg-logo="https://i.pinimg.com/originals/23/d7/1b/23d71b624207a23aa921604614d3a4db.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | TN23
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/549
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA HQ | GUATEVISION" tvg-logo="https://static.epg.best/gt/Guatevision.gt.png" group-title="││TV││GUATEMALA",GUATEMALA HQ | GUATEVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/550
+#EXTINF:-1 tvg-id="" tvg-name=" ││BOL││  1  UNITEL  [HD]" tvg-logo="https://static.epg.best/bo/Unitel.bo.png" group-title="││TV││ BOLIVIA", ││BOL││  1  UNITEL  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/551
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVIA TV [HD]" tvg-logo="https://static.epg.best/bo/BoliviaTv.bo.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVIA TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/555
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ | VENEZOLANA TV" tvg-logo="https://static.epg.best/ve/VenezolanadeTelevision.ve.png" group-title="││TV││VENEZUELA",VENEZUELA HQ | VENEZOLANA TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/556
+#EXTINF:-1 tvg-id="" tvg-name="││COL││ RCN  SD" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││ RCN  SD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/557
+#EXTINF:-1 tvg-id="" tvg-name="││COL││  RCN NOVELA HD" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png" group-title="││TV││ COLOMBIA (TEST)",││COL││  RCN NOVELA HD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/558
+#EXTINF:-1 tvg-id="" tvg-name="REPUBLICA DOMIN HQ | CDN" tvg-logo="https://noticiasdehoyrd.com/images/periodicos/cdn-ultimas-noticias-de-rd.jpg" group-title="││TV││⛹️ DEPORTE R. DOMINICANA ⛹️",REPUBLICA DOMIN HQ | CDN
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/571
+#EXTINF:-1 tvg-id="" tvg-name="REPUBLICA DOMIN HQ | CDN SPORTS MAX" tvg-logo="https://1.bp.blogspot.com/-NlSkCQYKCbY/XiMWscH08rI/AAAAAAAAIWQ/BJ-slkNE1OspYiNUXkUzmcTFCwJuWLpMACLcBGAsYHQ/s210/En%2Bvivo%2Bcdn%2B%2Bdeportes.png" group-title="││TV││⛹️ DEPORTE R. DOMINICANA ⛹️",REPUBLICA DOMIN HQ | CDN SPORTS MAX
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/572
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││LAS ESTRELLAS INTERNACIONAL (N)" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="││TV││ MEXICO", ││MX││LAS ESTRELLAS INTERNACIONAL (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/576
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ CRONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="││TV││ARGENTINA ",││ARG││ CRONICA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/584
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ PAKA PAKA HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="││TV││ARGENTINA ",││ARG││ PAKA PAKA HQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/590
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TELEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="││TV││ARGENTINA ",││ARG││ TELEMAX
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/592
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="││TV││ARGENTINA ",││ARG││ TN
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/593
+#EXTINF:-1 tvg-id="" tvg-name="││BOL││ BOLIVISION LA PAZ [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="││TV││ BOLIVIA",││BOL││ BOLIVISION LA PAZ [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/596
+#EXTINF:-1 tvg-id="" tvg-name=" ││BOL││  GIGAVISION [HD1]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Megavisi%C3%B3n_1990.png/revision/latest?cb=20200111182030&path-prefix=es" group-title="││TV││ BOLIVIA", ││BOL││  GIGAVISION [HD1]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/597
+#EXTINF:-1 tvg-id="" tvg-name=" ││BOL││  TVU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Tvu_hd.png" group-title="││TV││ BOLIVIA", ││BOL││  TVU
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/598
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CANAL 2 SAN ANTONIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Descarga3.jpg/revision/latest?cb=20190826001246&path-prefix=es" group-title="││TV││ CHILE",││CHL││ CANAL 2 SAN ANTONIO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/599
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CANAL 21 CHILLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_21_Chill%C3%A1n.png/480px-Canal_21_Chill%C3%A1n.png" group-title="││TV││ CHILE",││CHL││ CANAL 21 CHILLAN
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/600
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CANAL COSTA TV" tvg-logo="" group-title="││TV││ CHILE",││CHL││ CANAL COSTA TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/601
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││  CAROLINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Radio_Carolina_2020.png" group-title="││TV││ CHILE",││CHL││  CAROLINA TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/602
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ TV CHILE [HD]" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png" group-title="││TV││ CHILE",││CHL││ TV CHILE [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/603
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CLUB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/1200px-Casa_Club_tv_logo.svg.png" group-title="││TV││ CHILE",││CHL││ CLUB TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/604
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_de_Canal_Sur_1.png" group-title="││TV││ CHILE",││CHL││ CSTV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/605
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ TELETRAK [HD]" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││ TELETRAK [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/607
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ UCV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="││TV││ CHILE",││CHL││ UCV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/608
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | TICAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Canal9CRNew.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | TICAVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/619
+#EXTINF:-1 tvg-id="" tvg-name="││TIGO SPORT││ (GUA)  [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️",││TIGO SPORT││ (GUA)  [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/620
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | HCH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" group-title="││TV││HONDURAS ",HONDURAS HQ | HCH TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/622
+#EXTINF:-1 tvg-id="" tvg-name="││MX││CANAL 10 CANCUN" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg?1587752857" group-title="││TV││ MEXICO",││MX││CANAL 10 CANCUN
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/623
+#EXTINF:-1 tvg-id="" tvg-name="││MX││ CANAL 6 NACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="││TV││ MEXICO",││MX││ CANAL 6 NACIONAL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/624
+#EXTINF:-1 tvg-id="" tvg-name="││MX││ESTRELLAS NEWS [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/250px-Estrella_TV_2020_Logo.svg.png" group-title="││TV││ MEXICO",││MX││ESTRELLAS NEWS [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/625
+#EXTINF:-1 tvg-id="" tvg-name="││MX││MILENIO [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="││TV││ MEXICO",││MX││MILENIO [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/626
+#EXTINF:-1 tvg-id="" tvg-name="││MX││MULTIMEDIO GUADALAJARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png" group-title="││TV││ MEXICO",││MX││MULTIMEDIO GUADALAJARA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/627
+#EXTINF:-1 tvg-id="" tvg-name=" ││MX││MULTIMEDIO MONTERREY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png" group-title="││TV││ MEXICO", ││MX││MULTIMEDIO MONTERREY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/628
+#EXTINF:-1 tvg-id="" tvg-name="││MX││ALJAZZERA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="││TV││ MEXICO",││MX││ALJAZZERA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/630
+#EXTINF:-1 tvg-id="" tvg-name="││MX││CADENA H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logotipo-Cadena-Tres.png" group-title="││TV││ MEXICO",││MX││CADENA H
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/631
+#EXTINF:-1 tvg-id="" tvg-name="││MX││CANAL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/XHFAMX_LaOctava.png" group-title="││TV││ MEXICO",││MX││CANAL 8
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/632
+#EXTINF:-1 tvg-id="" tvg-name="││MX││MEXIQUENSE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Televisi%C3%B3n_Mexiquense.jpg" group-title="││TV││ MEXICO",││MX││MEXIQUENSE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/633
+#EXTINF:-1 tvg-id="" tvg-name="││MX││IMAGEN TV [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="││TV││ MEXICO",││MX││IMAGEN TV [HD]
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/634
+#EXTINF:-1 tvg-id="" tvg-name="││MX││ RTQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ParroquiaSanSebastianen_Bernal.JPG/250px-ParroquiaSanSebastianen_Bernal.JPG" group-title="││TV││ MEXICO",││MX││ RTQ
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/635
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | ABC COLOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG" group-title="││TV││ PARAGUAY", |  | PARAG |  | ABC COLOR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/638
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | FARRA PLAY" tvg-logo="https://pbs.twimg.com/media/D_DJHwkXYAAPo8E.jpg" group-title="││TV││ PARAGUAY", |  | PARAG |  | FARRA PLAY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/639
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  |  NPY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="││TV││ PARAGUAY", |  | PARAG |  |  NPY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/640
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  |  PARAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="││TV││ PARAGUAY", |  | PARAG |  |  PARAVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/641
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  |  SUR TV" tvg-logo="https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg" group-title="││TV││ PARAGUAY", |  | PARAG |  |  SUR TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/642
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="││TV││ PARAGUAY", |  | PARAG |  | LA TELE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/643
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY HQ | TELEDOCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/LogoTeledoce2019Azul.png" group-title="││TV││ URUGUAY ",URUGUAY HQ | TELEDOCE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/654
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ | GLOBAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="││TV││VENEZUELA",VENEZUELA HQ | GLOBAVISION
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/657
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA HQ | RT EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="││TV││VENEZUELA",VENEZUELA HQ | RT EN ESPAÑOL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/658
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSOS | LOGOS TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-logos-tv-9694.jpg" group-title="││TV││ RELIGION",RELIGIOSOS | LOGOS TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/664
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSOS | INSPIRACION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BYUtv_International_%28blue%29.JPG/1200px-BYUtv_International_%28blue%29.JPG" group-title="││TV││ RELIGION",RELIGIOSOS | INSPIRACION TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/665
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSOS | ORBE 21 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="││TV││ RELIGION",RELIGIOSOS | ORBE 21 TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/666
+#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSOS | NUEVO TIEMPO TV" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="││TV││ RELIGION",RELIGIOSOS | NUEVO TIEMPO TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/667
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA HQ | TELERED" tvg-logo="http://costaricatelevision.com/sites/default/files/2021-04/_Telered%2520Television.png" group-title="││TV││ COSTA RICA",COSTA RICA HQ | TELERED
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/669
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | SUCESO TV" tvg-logo="https://i1.sndcdn.com/avatars-nUVpyQKogZoE91UX-cNrzxQ-t240x240.jpg" group-title="││TV││ PARAGUAY", |  | PARAG |  | SUCESO TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/671
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | SOMOS DEL ESTE" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="││TV││ PARAGUAY", |  | PARAG |  | SOMOS DEL ESTE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/672
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  |RCC TV" tvg-logo="https://cdn.rcc.com.py/2019/01/tv-en-vivo.jpg" group-title="││TV││ PARAGUAY", |  | PARAG |  |RCC TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/673
+#EXTINF:-1 tvg-id="" tvg-name=" |  | PARAG |  | MI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="││TV││ PARAGUAY", |  | PARAG |  | MI TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/674
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY LOCAL | DISMAR TV" tvg-logo="https://www.peruyello.com/img/pe/h/1623690124-42-distribuidora-y-comercializadora-dismar-s-r-l.jpg" group-title="││TV││ PARAGUAY",PARAGUAY LOCAL | DISMAR TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/676
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | CANAL 12" tvg-logo="https://static.epg.best/sv/Canal12.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | CANAL 12
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/679
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | CANAL 2" tvg-logo="https://static.epg.best/sv/Canal2Nacional.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | CANAL 2
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/680
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | CANAL 19" tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | CANAL 19
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/681
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Canal_33_El_Salvador_2019.png" group-title="││TV││EL SALVADOR",EL SALVADOR | CANAL 33
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/682
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | CANAL 4" tvg-logo="https://static.epg.best/sv/Canal4Nacional.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | CANAL 4
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/683
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | CANAL 6" tvg-logo="https://static.epg.best/sv/Canal6Nacional.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | CANAL 6
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/684
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | MEGAVISION CANAL 21" tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | MEGAVISION CANAL 21
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/685
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | TCS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | TCS PLUS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/686
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR SD | CANAL 10 (N)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR SD | CANAL 10 (N)
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/687
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | TVU" tvg-logo="https://www.tvuediciondigital.com/media/tvuediciondigital/images/2019/07/01/2019070112254584052.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | TVU
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/688
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | WOW TV" tvg-logo="https://pbs.twimg.com/profile_images/505119435766501376/nInYJr02.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | WOW TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/689
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR HQ | CANAL 21" tvg-logo="https://static.epg.best/sv/Canal21.sv.png" group-title="││TV││EL SALVADOR",EL SALVADOR HQ | CANAL 21
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/690
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | CAMPUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Campus_Title.jpg" group-title="││TV││HONDURAS ",HONDURAS HQ | CAMPUS TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/692
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_5_HN_logo_2019.png" group-title="││TV││HONDURAS ",HONDURAS HQ | CANAL 5
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/693
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | TELECEIBA" tvg-logo="https://static.epg.best/hn/Teleceiba.hn.png" group-title="││TV││HONDURAS ",HONDURAS HQ | TELECEIBA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/696
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | SI TV" tvg-logo="https://cdn.mitvstatic.com/channels/hn_si-tv_m.png" group-title="││TV││HONDURAS ",HONDURAS HQ | SI TV
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/697
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | TELE CADENA" tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2020/05/Generica-TSi.png" group-title="││TV││HONDURAS ",HONDURAS HQ | TELE CADENA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/698
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" group-title="││TV││HONDURAS ",HONDURAS HQ | AZTECA 7
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/699
+#EXTINF:-1 tvg-id="" tvg-name="HONDURAS HQ | TEN" tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2019/06/TEN-LOGO-SLIDE2.png" group-title="││TV││HONDURAS ",HONDURAS HQ | TEN
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/700
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ RT ESPANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ RT ESPANA FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/776
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ CALLE 13 FHD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ CALLE 13 FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/777
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ COSMOS FHD" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ COSMOS FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/778
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││SOMOS FHD" tvg-logo="https://static.epg.best/es/Somos.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││SOMOS FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/781
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ COMEDY CENTRAL FHD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ COMEDY CENTRAL FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/782
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ ODISEA FHD" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ ODISEA FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/784
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││DISNEY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="││TV││ INFANTIL ESPAÑA",││ESP││DISNEY CHANNEL FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/785
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││CAZA & PESCA FHD" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││CAZA & PESCA FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/786
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││HISTORIA FHD" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││HISTORIA FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/788
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││NAT GEO WILD FHD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││NAT GEO WILD FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/789
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││NATIONAL GEOGRAFIC FHD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││NATIONAL GEOGRAFIC FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/790
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││AMC FHD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││AMC FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/808
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││TCM FHD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││TCM FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/809
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ AXN WHITE FHD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ AXN WHITE FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/811
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││AXN FHD" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││AXN FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/812
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││FOX FHD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││FOX FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/813
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ FOX LIFE FHD" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ FOX LIFE FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/814
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││HOLLYWOOD FHD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││HOLLYWOOD FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/815
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ SYFY FHD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ SYFY FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/818
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR ACCION FHD" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││MOVISTAR ACCION FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/819
+#EXTINF:-1 tvg-id="" tvg-name="[ESPAÑA] MOVISTAR DRAMA FHD LOCAL" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="││TV││ CINE ESPAÑA",[ESPAÑA] MOVISTAR DRAMA FHD LOCAL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/820
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ MOVISTAR SERIES FHD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││ MOVISTAR SERIES FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/822
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││MOVISTAR ESTRENOS FHD" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││MOVISTAR ESTRENOS FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/824
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││| MOVISTAR CINE DOC&ROLL FHD" tvg-logo="https://static.epg.best/es/MovistarCineDocRoll.es.png" group-title="││TV││ CINE ESPAÑA",││ESP││| MOVISTAR CINE DOC&ROLL FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/825
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││DISCOVERY CHANNEL FHD" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DISCOVERY CHANNEL FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/836
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││NICKELODEON FHD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="││TV││ INFANTIL ESPAÑA",││ESP││NICKELODEON FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/842
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││SELEKT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Select_sport_logo.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││SELEKT FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/843
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││VIAJAR FHD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││VIAJAR FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/847
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ A PUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/100px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ A PUNT FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/849
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││DARK FHD" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││DARK FHD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/850
+#EXTINF:-1 tvg-id="" tvg-name="││LATIN US││ UNIVISION  41 NEW YORK" tvg-logo="https://static.epg.best/us/UnivisionEast.us.png" group-title="││TV││USA LATINO",││LATIN US││ UNIVISION  41 NEW YORK
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1297
+#EXTINF:-1 tvg-id="" tvg-name="││ESP││ VIAJAR SD" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="││TV││ ENTRETENIMIENTO ESPAÑA",││ESP││ VIAJAR SD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1362
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES  DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES  DRAGON BALL Z
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1439
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" group-title="││TV││SERIES 24/7",24/7 LOS SIMPSON
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1440
+#EXTINF:-1 tvg-id="" tvg-name="24/7  BOB ESPONJA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/logo-SpongeBob-SquarePants.png" group-title="││TV││SERIES 24/7",24/7  BOB ESPONJA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1441
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL SUPER
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1442
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL GT
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1443
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DRAGON BALL Z
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1444
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES | CHAVO DEL OCHO " tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/0/06/Chavoposter.jpg/revision/latest/top-crop/width/360/height/450?cb=20211011204936&path-prefix=es" group-title="││TV││SERIES 24/7",24/7 SERIES | CHAVO DEL OCHO 
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1445
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Lafamiliapluche.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1446
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1447
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | MALCOM IN THE MIDDLE TEMPORADA 1 2 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/MitM_credits_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | MALCOM IN THE MIDDLE TEMPORADA 1 2 3
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1448
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | EL CHAVO DEL OCHO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/El_Chavo_poster.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | EL CHAVO DEL OCHO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1449
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Lafamiliapluche.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES COMEDIAS | LA FAMILIA PELUCHE TEMPORADA 1
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1450
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | BEN 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | BEN 10
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1451
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | MR BEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Atkinson_Rowan.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | MR BEAN
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1452
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | TERROR" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | TERROR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1454
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | ED EDD Y EDDY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/All_3_eds.png/200px-All_3_eds.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | ED EDD Y EDDY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1455
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | YU-GI-OH!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Yu-Gi-Oh%21_vol_01.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | YU-GI-OH!
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1457
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | ANIMANIACS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Animaniacs_2020_tv_series_cover.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | ANIMANIACS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1458
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION  | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES ACCION  | MARVEL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1459
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIA  | FRIENDS" tvg-logo="https://i.blogs.es/d26168/friends-tiempo/450_1000.jpeg" group-title="││TV││SERIES 24/7",24/7 SERIES COMEDIA  | FRIENDS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1460
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | THE WALKING DEAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Walking_Dead_Season_3_Official_Poster.jpg/220px-Walking_Dead_Season_3_Official_Poster.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | THE WALKING DEAD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1461
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | THUNDERCATS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Thundercats.png/250px-Thundercats.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | THUNDERCATS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1462
+#EXTINF:-1 tvg-id="" tvg-name="PPV MOVIES | ACCION Y CLASICAS" tvg-logo="https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png" group-title="││TV││ MOVIES 24/7",PPV MOVIES | ACCION Y CLASICAS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1463
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION | BREAKING BAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" group-title="││TV││SERIES 24/7",24/7 SERIES ACCION | BREAKING BAD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1464
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | CABALLERO DEL ZODIACO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1465
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | TOY STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toy_Story.svg/1200px-Toy_Story.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | TOY STORY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1466
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | PICAPIEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | PICAPIEDRAS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1467
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CASO CERRADO" tvg-logo="https://www.terra.cl/u/fotografias/m/2022/3/23/f768x1-22152_22279_5050.png" group-title="││TV││SERIES 24/7",24/7  CASO CERRADO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1468
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DISNEY PIXAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DISNEY PIXAR
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1471
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | DREAMWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | DREAMWORKS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1472
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS" tvg-logo="https://www.themoviedb.org/t/p/w500/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | GARFIELD Y SUS AMIGOS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1474
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | GRAVITY FALLS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gravity_Falls_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | GRAVITY FALLS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1475
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | JOHNNY TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Johnny_Test_Title_Logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | JOHNNY TEST
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1477
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | KENAL Y KEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="││TV││SERIES 24/7",24/7 SERIES COMEDIAS | KENAL Y KEL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1478
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA CASA DE MICKEY MOUSE" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/08/10/11/590012.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LA CASA DE MICKEY MOUSE
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1479
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LA PRINCESA SOFIA" tvg-logo="http://www.princesas.tienda/wp-content/uploads/2020/09/princesa-sofia.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LA PRINCESA SOFIA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1480
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | LADYBUG" tvg-logo="https://www.themoviedb.org/t/p/original/32yoyMPjw0tpPk4xmhkXT3gypkc.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES | LADYBUG
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1481
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL FINAL DEL PARAISO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ElFinalDelPara%C3%ADsoLogo.png/245px-ElFinalDelPara%C3%ADsoLogo.png" group-title="││TV││SERIES 24/7",24/7 | EL FINAL DEL PARAISO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1482
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | NARCO MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="││TV││ MEXICO",24/7 | NARCO MEXICO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1483
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/El_Chapo_Netflix_poster.jpg" group-title="││TV││SERIES 24/7",24/7 | EL CHAPO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1485
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="https://stadium-azteca.underdog.gs/soccerly/1.5/2018/04/02/1522693082.png" group-title="││TV││SERIES 24/7",24/7 SUPER CAMPEONES
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1486
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| BIRDMAN THE GALAXY TRIO" tvg-logo="https://pictures.betaseries.com/fonds/poster/a17e5a74619e5f5980c4f99a3483cb47.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| BIRDMAN THE GALAXY TRIO
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1487
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES  DIGIMON " tvg-logo="https://elregidordecine.com/wp-content/uploads/2020/03/curiosidades-de-digimon-adventure-serie-animacion-00.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES  DIGIMON 
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1488
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| DISENCHATMENT" tvg-logo="https://www.srgeekarg.com/wp-content/uploads/2021/04/Disenchantment-s3-portada.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| DISENCHATMENT
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1489
+#EXTINF:-1 tvg-id="" tvg-name="24/7  INFANTIL DON GATO Y SU PANDILLA" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7dbc117a-b70f-4659-921d-50d88e6a2617/deik3o3-04c884e9-c752-4d51-9b76-63a783fc57af.jpg/v1/fill/w_1920,h_1080,q_75,strp/don_gato_y_su_pandilla_by_jamegerea_deik3o3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzdkYmMxMTdhLWI3MGYtNDY1OS05MjFkLTUwZDg4ZTZhMjYxN1wvZGVpazNvMy0wNGM4ODRlOS1jNzUyLTRkNTEtOWI3Ni02M2E3ODNmYzU3YWYuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tgZZ7x-BoERvglT6NuWomeTwpqKoJ5zRUYlOmTmHdzg" group-title="││TV││SERIES 24/7",24/7  INFANTIL DON GATO Y SU PANDILLA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1490
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| HIGH SCHOOL MUSICAL" tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/23/15/40/2781440.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| HIGH SCHOOL MUSICAL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1492
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| HORA DE AVENTURA TEMPORADA 1 2 3" tvg-logo="https://www.compudescarga.com/wp-content/uploads/2018/09/hora-de-aventura-todas-las-temporadas-espa%C3%B1ol-latino-por-mega.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| HORA DE AVENTURA TEMPORADA 1 2 3
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1493
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES| KUNG FU PANDA" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/27/00/10/3716633.png" group-title="││TV││SERIES 24/7",24/7 SERIES INFANTILES| KUNG FU PANDA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1494
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="https://es.peppapig.com/wp-content/uploads/sites/6/2019/03/peppa_george_characters.png" group-title="││TV││SERIES 24/7",24/7 PEPPA PIG
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1495
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | OUTCAST" tvg-logo="https://moviehaku.com/thumbs/films/400x590/Outcast-2016.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | OUTCAST
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1498
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | PENNY DREADFULL" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/24/11/43/4884372.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | PENNY DREADFULL
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1500
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | SLASHER" tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/23/15/43/145751.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | SLASHER
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1501
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | STRANGER THINGS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/16/39/4888520.jpg?coixp=51&coiyp=36" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | STRANGER THINGS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1502
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | THE VAMPIRE DIARIES" tvg-logo="https://1.bp.blogspot.com/--LX0OO3Sl6Y/X6cuH7uLEMI/AAAAAAAABsU/R0M2vcCmdIEa3EUU4yWounsuAyKLXpUFgCLcBGAsYHQ/s16000/05x17.%2BEl%2BAmuleto%2Bde%2Bla%2BSuerte.avi_thumbs_%255B2020.11.07_06.07.13%255D.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | THE VAMPIRE DIARIES
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1503
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | !ZOMBIES TEMPORADA 1 2" tvg-logo="" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | !ZOMBIES TEMPORADA 1 2
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1504
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | HAUNTED" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/04/al-borde-de-la-realidad-latinoamerica-poster.jpeg?fit=426%2C597&ssl=1" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | HAUNTED
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | FROM DUSK TILL DAWN THE SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/13/09/31/063864.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | FROM DUSK TILL DAWN THE SERIES
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1506
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | FEAR THE WALKING DEAD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZkYTRjMWQtZThiOS00MjJlLWFkNDktNzNhODNhOWNlNjdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | FEAR THE WALKING DEAD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1507
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | ESCALOFRIOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | ESCALOFRIOS
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1508
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | EL MUNDO OCULTO DE SABRINA" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/22/02/56/2323749.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | EL MUNDO OCULTO DE SABRINA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1509
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | EL EXORCISTA" tvg-logo="https://www.ecartelera.com/carteles-series/100/191/002_p.jpg" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | EL EXORCISTA
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | CATLE ROCK" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/12/cartel-castle-rock-2.jpeg?itok=sVEIdVYt" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | CATLE ROCK
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | ASH VS EVIL DEAD" tvg-logo="https://menudocaramelito.files.wordpress.com/2017/01/ash-vs-evil-dead-season-2-poster1-1.jpg?w=900" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | ASH VS EVIL DEAD
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1512
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES TERROR | AMERICAN HORROR STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="││TV││SERIES 24/7",24/7 SERIES TERROR | AMERICAN HORROR STORY
+http://spaticplas.org:8080/TVPRJUANRODRIGO0503/Db9QKD232TBa/1513
